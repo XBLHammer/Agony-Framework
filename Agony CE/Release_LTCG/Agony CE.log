@@ -1,0 +1,20 @@
+﻿     0>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.Cpp.Platform.Redirect.10.props(23,3): warning MSB4011: "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Platforms\Xbox 360\Microsoft.Cpp.Xbox 360.default.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.Cpp.Default.props (113,3)". This is most likely a build authoring error. This subsequent import will be ignored. [C:\Users\ExiLe\Documents\Visual Studio 2010\Projects\Agony CE\Agony CE\Agony CE.vcxproj]
+Build started 9/25/2016 8:03:01 PM.
+     1>Project "C:\Users\ExiLe\Documents\Visual Studio 2010\Projects\Agony CE\Agony CE\Agony CE.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Xbox 360 SDK\bin\win32\CL.exe /c /Zi /nologo /W3 /WX- /Ox /Os /GL /D NDEBUG /D _XBOX /D LTCG /D _LIB /GF /Gm- /MT /GS- /Gy /fp:fast /fp:except- /Zc:wchar_t /Zc:forScope /GR- /openmp- /Yu"StdAfx.h" /Fp"C:\Users\ExiLe\Documents\Visual Studio 2010\Projects\Agony CE\Agony CE\Release_LTCG\Agony CE.pch" /Fo"Release_LTCG\\" /Fd"Release_LTCG\vc100.pdb" /TP R_EndFrame.cpp /FI"C:\Program Files (x86)\Microsoft Xbox 360 SDK\include\xbox\xbox_intellisense_platform.h"
+         R_EndFrame.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Xbox 360 SDK\bin\win32\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ExiLe\Documents\Visual Studio 2010\Projects\Agony CE\Agony CE\Release_LTCG\Agony CE.lib" /NOLOGO /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\ExiLe\Documents\Visual Studio 2010\Projects\Agony CE\Agony CE\Release_LTCG\Agony CE.pdb" /STACK:"262144","262144" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /IMPLIB:"C:\Users\ExiLe\Documents\Visual Studio 2010\Projects\Agony CE\Agony CE\Release_LTCG\Agony CE.lib" Release_LTCG\Agony.obj
+         Release_LTCG\R_EndFrame.obj
+         Release_LTCG\stdafx.obj /ignore:4089 /dll /entry:"_DllMainCRTStartup" /ALIGN:128,4096 /XEX:NO
+         Generating code
+     1>c:\users\exile\documents\visual studio 2010\projects\agony ce\agony ce\agony.cpp(25): warning C4700: uninitialized local variable 'Thr_Exit' used
+         Finished generating code
+       ImageXex:
+         C:\Program Files (x86)\Microsoft Xbox 360 SDK\bin\win32\imagexex.exe /out:"C:\Users\ExiLe\Documents\Visual Studio 2010\Projects\Agony CE\Agony CE\Release_LTCG\Agony.xex" /config:"Agony.xml" "C:\Users\ExiLe\Documents\Visual Studio 2010\Projects\Agony CE\Agony CE\Release_LTCG\Agony CE.lib" 
+     1>Done Building Project "C:\Users\ExiLe\Documents\Visual Studio 2010\Projects\Agony CE\Agony CE\Agony CE.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.64

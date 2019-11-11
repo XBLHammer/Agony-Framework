@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release_LTCG|Xbox 360'">
+    <DebuggerFlavor>Xbox360Debugger</DebuggerFlavor>
+    <Xbox360DebuggerCheckUpToDate>true</Xbox360DebuggerCheckUpToDate>
+    <Xbox360DebuggerCommand>HDD:\ (On '192.168.137.237')</Xbox360DebuggerCommand>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,359 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Util">
+      <UniqueIdentifier>{4ac0825e-e905-4655-befb-6b96d335c78c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\StdAfx">
+      <UniqueIdentifier>{ea4e9c69-81af-483c-8001-49ae339f5ce4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\StdAfx">
+      <UniqueIdentifier>{87c9fc10-e16a-4760-b7a8-711a1530b4ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\XIniRW">
+      <UniqueIdentifier>{288a8463-fc24-4368-89fc-6164ba64d2ab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\XIniRW">
+      <UniqueIdentifier>{8169c24c-921e-4865-9533-b5dca07ffc36}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Games">
+      <UniqueIdentifier>{145c67f0-02f5-4775-b66f-bf81ddc42073}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Games\MW2">
+      <UniqueIdentifier>{1db42432-ba87-44d1-acec-24afad2f4639}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Games\MW2\Aimbot">
+      <UniqueIdentifier>{2ca03b7a-a51b-4af3-a999-8191d69fe0a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Games\MW2\Detours">
+      <UniqueIdentifier>{26b7b0b3-3b69-406e-a35b-4d515f44a279}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Games\MW2\ESP">
+      <UniqueIdentifier>{b2c4b38f-3d16-4095-a931-58f766bd7b3e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Games\MW2\Data">
+      <UniqueIdentifier>{d1be997d-c3a0-4306-93ec-ab612595d8a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Games\MW2\Data\Menu">
+      <UniqueIdentifier>{09f84ca5-70f9-4874-8289-8449291f9c68}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Menu">
+      <UniqueIdentifier>{67606b89-85c3-432a-9d59-8f46a1589884}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Games\BO2">
+      <UniqueIdentifier>{20f9faee-4e94-4dfc-a277-7ecbb438a898}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Games\MW1">
+      <UniqueIdentifier>{eff15c73-89cf-4b67-8940-7dd052a8db56}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Games\MW1\Aimbot">
+      <UniqueIdentifier>{8a2c95a2-525c-41df-84ff-3c18065c209a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Games\MW1\Data">
+      <UniqueIdentifier>{41cd4018-78a7-42f7-aee9-a15cbbdb160d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Games\MW1\Data\Menu">
+      <UniqueIdentifier>{2001a3af-71c7-4d80-b017-ebe72ad60ff2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Games\MW1\Detours">
+      <UniqueIdentifier>{194be831-5bb5-4fb7-ae7b-5c38d6b5b620}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Games\MW1\ESP">
+      <UniqueIdentifier>{071dee2f-8adc-43a8-9973-da42ebfa9c65}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Games\MW3">
+      <UniqueIdentifier>{10c46167-7053-4b56-b6f3-e1a2563e65dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Games\Ghosts">
+      <UniqueIdentifier>{ee29ba27-dba0-4255-be9d-7bed76f6cc2b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Games\AW">
+      <UniqueIdentifier>{b76cd9c9-d698-480e-8c0e-dbfd51f8aa93}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Games\WAW">
+      <UniqueIdentifier>{de0a39a8-14ac-4848-acce-8bdc02291095}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Games\BO3">
+      <UniqueIdentifier>{5b3d15d2-6f11-4795-882f-cc544b5978a0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Games\BO1">
+      <UniqueIdentifier>{02b3dc91-1b00-4952-be6c-1a8491b674b6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Agony.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Agony.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="kernel.h">
+      <Filter>Header Files\Util</Filter>
+    </ClInclude>
+    <ClInclude Include="types.h">
+      <Filter>Header Files\Util</Filter>
+    </ClInclude>
+    <ClInclude Include="IW4MP.h">
+      <Filter>Header Files\Games\MW2\Detours</Filter>
+    </ClInclude>
+    <ClInclude Include="IW4_Functions.h">
+      <Filter>Header Files\Games\MW2\Data</Filter>
+    </ClInclude>
+    <ClInclude Include="IW4_ESP.h">
+      <Filter>Header Files\Games\MW2\ESP</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files\StdAfx</Filter>
+    </ClInclude>
+    <ClInclude Include="IW4_Menu.h">
+      <Filter>Header Files\Games\MW2\Data\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="XIniRW.h">
+      <Filter>Header Files\XIniRW</Filter>
+    </ClInclude>
+    <ClInclude Include="IW4_Structs.h">
+      <Filter>Header Files\Games\MW2\Data</Filter>
+    </ClInclude>
+    <ClInclude Include="IW4_Hook.h">
+      <Filter>Header Files\Games\MW2\Data</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuData.h">
+      <Filter>Header Files\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="IW4_MenuFunc.h">
+      <Filter>Header Files\Games\MW2\Data\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuStruct.h">
+      <Filter>Header Files\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="IW3_Aimbot.h">
+      <Filter>Header Files\Games\MW1\Aimbot</Filter>
+    </ClInclude>
+    <ClInclude Include="IW3_Functions.h">
+      <Filter>Header Files\Games\MW1\Data</Filter>
+    </ClInclude>
+    <ClInclude Include="IW3_Hook.h">
+      <Filter>Header Files\Games\MW1\Data</Filter>
+    </ClInclude>
+    <ClInclude Include="IW3_Structs.h">
+      <Filter>Header Files\Games\MW1\Data</Filter>
+    </ClInclude>
+    <ClInclude Include="IW3_Menu.h">
+      <Filter>Header Files\Games\MW1\Data\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="IW3_MenuFunc.h">
+      <Filter>Header Files\Games\MW1\Data\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="IW3MP.h">
+      <Filter>Header Files\Games\MW1\Detours</Filter>
+    </ClInclude>
+    <ClInclude Include="IW3_ESP.h">
+      <Filter>Header Files\Games\MW1\ESP</Filter>
+    </ClInclude>
+    <ClInclude Include="Detour.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SaveLoad.h">
+      <Filter>Header Files\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="IW4_Aimbot.h">
+      <Filter>Header Files\Games\MW2\Aimbot</Filter>
+    </ClInclude>
+    <ClInclude Include="Fade.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BO2_Structs.h">
+      <Filter>Header Files\Games\BO2</Filter>
+    </ClInclude>
+    <ClInclude Include="BO2MP.h">
+      <Filter>Header Files\Games\BO2</Filter>
+    </ClInclude>
+    <ClInclude Include="BO2_Aimbot.h">
+      <Filter>Header Files\Games\BO2</Filter>
+    </ClInclude>
+    <ClInclude Include="BO2_ESP.h">
+      <Filter>Header Files\Games\BO2</Filter>
+    </ClInclude>
+    <ClInclude Include="BO2_Functions.h">
+      <Filter>Header Files\Games\BO2</Filter>
+    </ClInclude>
+    <ClInclude Include="BO2_Hook.h">
+      <Filter>Header Files\Games\BO2</Filter>
+    </ClInclude>
+    <ClInclude Include="BO2_Menu.h">
+      <Filter>Header Files\Games\BO2</Filter>
+    </ClInclude>
+    <ClInclude Include="BO2_MenuFunc.h">
+      <Filter>Header Files\Games\BO2</Filter>
+    </ClInclude>
+    <ClInclude Include="IW5_Functions.h">
+      <Filter>Header Files\Games\MW3</Filter>
+    </ClInclude>
+    <ClInclude Include="IW5_Hook.h">
+      <Filter>Header Files\Games\MW3</Filter>
+    </ClInclude>
+    <ClInclude Include="IW5_Menu.h">
+      <Filter>Header Files\Games\MW3</Filter>
+    </ClInclude>
+    <ClInclude Include="IW5_MenuFunc.h">
+      <Filter>Header Files\Games\MW3</Filter>
+    </ClInclude>
+    <ClInclude Include="IW5_Structs.h">
+      <Filter>Header Files\Games\MW3</Filter>
+    </ClInclude>
+    <ClInclude Include="IW5MP.h">
+      <Filter>Header Files\Games\MW3</Filter>
+    </ClInclude>
+    <ClInclude Include="IW5_Aimbot.h">
+      <Filter>Header Files\Games\MW3</Filter>
+    </ClInclude>
+    <ClInclude Include="IW5_ESP.h">
+      <Filter>Header Files\Games\MW3</Filter>
+    </ClInclude>
+    <ClInclude Include="GHO_Hook.h">
+      <Filter>Header Files\Games\Ghosts</Filter>
+    </ClInclude>
+    <ClInclude Include="GHO_Menu.h">
+      <Filter>Header Files\Games\Ghosts</Filter>
+    </ClInclude>
+    <ClInclude Include="GHO_MenuFunc.h">
+      <Filter>Header Files\Games\Ghosts</Filter>
+    </ClInclude>
+    <ClInclude Include="GHO_Structs.h">
+      <Filter>Header Files\Games\Ghosts</Filter>
+    </ClInclude>
+    <ClInclude Include="GHOMP.h">
+      <Filter>Header Files\Games\Ghosts</Filter>
+    </ClInclude>
+    <ClInclude Include="GHO_Aimbot.h">
+      <Filter>Header Files\Games\Ghosts</Filter>
+    </ClInclude>
+    <ClInclude Include="GHO_ESP.h">
+      <Filter>Header Files\Games\Ghosts</Filter>
+    </ClInclude>
+    <ClInclude Include="GHO_Functions.h">
+      <Filter>Header Files\Games\Ghosts</Filter>
+    </ClInclude>
+    <ClInclude Include="AW_Functions.h">
+      <Filter>Header Files\Games\AW</Filter>
+    </ClInclude>
+    <ClInclude Include="AW_Hook.h">
+      <Filter>Header Files\Games\AW</Filter>
+    </ClInclude>
+    <ClInclude Include="AW_Menu.h">
+      <Filter>Header Files\Games\AW</Filter>
+    </ClInclude>
+    <ClInclude Include="AW_MenuFunc.h">
+      <Filter>Header Files\Games\AW</Filter>
+    </ClInclude>
+    <ClInclude Include="AW_Structs.h">
+      <Filter>Header Files\Games\AW</Filter>
+    </ClInclude>
+    <ClInclude Include="AWMP.h">
+      <Filter>Header Files\Games\AW</Filter>
+    </ClInclude>
+    <ClInclude Include="AW_Aimbot.h">
+      <Filter>Header Files\Games\AW</Filter>
+    </ClInclude>
+    <ClInclude Include="AW_ESP.h">
+      <Filter>Header Files\Games\AW</Filter>
+    </ClInclude>
+    <ClInclude Include="WAW_ESP.h">
+      <Filter>Header Files\Games\WAW</Filter>
+    </ClInclude>
+    <ClInclude Include="WAW_Functions.h">
+      <Filter>Header Files\Games\WAW</Filter>
+    </ClInclude>
+    <ClInclude Include="WAW_Hook.h">
+      <Filter>Header Files\Games\WAW</Filter>
+    </ClInclude>
+    <ClInclude Include="WAW_Menu.h">
+      <Filter>Header Files\Games\WAW</Filter>
+    </ClInclude>
+    <ClInclude Include="WAW_MenuFunc.h">
+      <Filter>Header Files\Games\WAW</Filter>
+    </ClInclude>
+    <ClInclude Include="WAW_Structs.h">
+      <Filter>Header Files\Games\WAW</Filter>
+    </ClInclude>
+    <ClInclude Include="WAWMP.h">
+      <Filter>Header Files\Games\WAW</Filter>
+    </ClInclude>
+    <ClInclude Include="WAW_Aimbot.h">
+      <Filter>Header Files\Games\WAW</Filter>
+    </ClInclude>
+    <ClInclude Include="BO3_Functions.h">
+      <Filter>Header Files\Games\BO3</Filter>
+    </ClInclude>
+    <ClInclude Include="BO3_Hook.h">
+      <Filter>Header Files\Games\BO3</Filter>
+    </ClInclude>
+    <ClInclude Include="BO3_Menu.h">
+      <Filter>Header Files\Games\BO3</Filter>
+    </ClInclude>
+    <ClInclude Include="BO3_MenuFunc.h">
+      <Filter>Header Files\Games\BO3</Filter>
+    </ClInclude>
+    <ClInclude Include="BO3_Structs.h">
+      <Filter>Header Files\Games\BO3</Filter>
+    </ClInclude>
+    <ClInclude Include="BO3MP.h">
+      <Filter>Header Files\Games\BO3</Filter>
+    </ClInclude>
+    <ClInclude Include="BO3_Aimbot.h">
+      <Filter>Header Files\Games\BO3</Filter>
+    </ClInclude>
+    <ClInclude Include="BO3_ESP.h">
+      <Filter>Header Files\Games\BO3</Filter>
+    </ClInclude>
+    <ClInclude Include="BO1_Hook.h">
+      <Filter>Header Files\Games\BO1</Filter>
+    </ClInclude>
+    <ClInclude Include="BO1_Menu.h">
+      <Filter>Header Files\Games\BO1</Filter>
+    </ClInclude>
+    <ClInclude Include="BO1_MenuFunc.h">
+      <Filter>Header Files\Games\BO1</Filter>
+    </ClInclude>
+    <ClInclude Include="BO1_Structs.h">
+      <Filter>Header Files\Games\BO1</Filter>
+    </ClInclude>
+    <ClInclude Include="BO1MP.h">
+      <Filter>Header Files\Games\BO1</Filter>
+    </ClInclude>
+    <ClInclude Include="BO1_Aimbot.h">
+      <Filter>Header Files\Games\BO1</Filter>
+    </ClInclude>
+    <ClInclude Include="BO1_ESP.h">
+      <Filter>Header Files\Games\BO1</Filter>
+    </ClInclude>
+    <ClInclude Include="BO1_Functions.h">
+      <Filter>Header Files\Games\BO1</Filter>
+    </ClInclude>
+    <ClInclude Include="Invoker.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Agony.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files\StdAfx</Filter>
+    </ClCompile>
+    <ClCompile Include="Detour.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="XIniRW.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,715 @@
+﻿  Agony.cpp
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\Agony.h(290): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\Agony.h(320): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\Agony.h(452): warning C4101: 'result' : unreferenced local variable
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\Agony.h(508): warning C4101: 'result' : unreferenced local variable
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\Agony.h(636): warning C4101: 'cr' : unreferenced local variable
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\Agony.h(636): warning C4101: 'sr' : unreferenced local variable
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\Agony.h(814): warning C4309: 'initializing' : truncation of constant value
+Agony.cpp(22): warning C4005: 'ANGLE2SHORT' : macro redefinition
+          c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\Agony.h(747) : see previous definition of 'ANGLE2SHORT'
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_Functions.h(59): warning C4172: returning address of local variable or temporary
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_Functions.h(112): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_Functions.h(114): warning C4309: 'argument' : truncation of constant value
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_Functions.h(365): warning C4172: returning address of local variable or temporary
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_Functions.h(455): warning C4101: 'ScreenPos' : unreferenced local variable
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_Functions.h(518): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_ESP.h(7): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_ESP.h(8): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_ESP.h(10): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_ESP.h(12): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_ESP.h(12): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_ESP.h(17): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_ESP.h(18): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_ESP.h(20): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_ESP.h(61): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_ESP.h(62): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_ESP.h(64): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_ESP.h(79): warning C4309: 'argument' : truncation of constant value
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_ESP.h(87): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_ESP.h(88): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_ESP.h(126): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_ESP.h(127): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_ESP.h(129): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_ESP.h(144): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_ESP.h(145): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_ESP.h(148): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_ESP.h(148): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_ESP.h(148): warning C4309: 'argument' : truncation of constant value
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_ESP.h(159): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_ESP.h(277): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_ESP.h(279): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_ESP.h(296): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_ESP.h(297): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_ESP.h(298): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_ESP.h(299): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_ESP.h(330): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_ESP.h(342): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_ESP.h(342): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_Aimbot.h(212): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_Hook.h(125): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_Hook.h(144): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_Hook.h(159): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_Hook.h(162): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_Hook.h(227): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_Hook.h(258): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_Hook.h(261): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_Hook.h(262): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_Hook.h(264): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_Hook.h(265): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_Hook.h(268): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_Hook.h(268): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_Hook.h(269): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_Hook.h(269): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_Hook.h(281): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_Hook.h(282): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_Hook.h(283): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_Hook.h(286): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_Hook.h(299): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_Hook.h(300): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_Hook.h(301): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_Hook.h(302): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_Hook.h(306): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_Hook.h(320): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_Hook.h(326): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_Hook.h(428): warning C4018: '>' : signed/unsigned mismatch
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_Hook.h(440): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_Hook.h(443): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW3_Hook.h(466): warning C4018: '>' : signed/unsigned mismatch
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_Functions.h(35): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_Functions.h(36): warning C4309: 'argument' : truncation of constant value
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_Functions.h(101): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_Functions.h(101): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_Functions.h(252): warning C4172: returning address of local variable or temporary
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_Functions.h(382): warning C4101: 'ScreenPos' : unreferenced local variable
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_Functions.h(451): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_ESP.h(7): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_ESP.h(8): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_ESP.h(10): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_ESP.h(12): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_ESP.h(12): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_ESP.h(17): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_ESP.h(18): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_ESP.h(20): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_ESP.h(61): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_ESP.h(62): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_ESP.h(64): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_ESP.h(87): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_ESP.h(88): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_ESP.h(126): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_ESP.h(127): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_ESP.h(129): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_ESP.h(144): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_ESP.h(145): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_ESP.h(148): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_ESP.h(148): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_ESP.h(148): warning C4309: 'argument' : truncation of constant value
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_ESP.h(159): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_ESP.h(277): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_ESP.h(279): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_ESP.h(296): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_ESP.h(297): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_ESP.h(298): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_ESP.h(299): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_ESP.h(330): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_ESP.h(342): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_ESP.h(342): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_Aimbot.h(226): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_Hook.h(127): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_Hook.h(146): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_Hook.h(161): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_Hook.h(164): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_Hook.h(361): warning C4018: '>' : signed/unsigned mismatch
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_Hook.h(373): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_Hook.h(489): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_Hook.h(492): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_Hook.h(510): warning C4018: '>' : signed/unsigned mismatch
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_Hook.h(624): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_Hook.h(633): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_Hook.h(634): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_Hook.h(673): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_Hook.h(676): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_Hook.h(677): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_Hook.h(679): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_Hook.h(680): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_Hook.h(683): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_Hook.h(683): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_Hook.h(684): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_Hook.h(684): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_Hook.h(689): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_Hook.h(702): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_Hook.h(703): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_Hook.h(704): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_Hook.h(705): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\WAW_Hook.h(708): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_Functions.h(101): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_Functions.h(123): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_Functions.h(586): warning C4101: 'ScreenPos' : unreferenced local variable
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_Functions.h(655): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_Functions.h(728): warning C4172: returning address of local variable or temporary
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(112): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(114): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(116): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(117): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(119): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(123): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(123): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(125): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(126): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(128): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(128): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(131): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(173): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(177): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(181): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(185): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(189): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(193): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(197): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(201): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(205): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(209): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(213): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(217): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(221): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(225): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(229): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(236): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(237): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(239): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(248): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(251): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(254): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(257): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(276): warning C4101: 'Shader' : unreferenced local variable
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(333): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(334): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(336): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(360): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(363): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(363): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(366): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(366): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(370): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(370): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(443): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(444): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(446): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(471): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(472): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(535): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(536): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(538): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(553): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(554): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(557): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(557): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(567): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(685): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(687): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(706): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(707): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(708): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(709): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(740): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(752): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(752): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(756): warning C4305: 'argument' : truncation from 'int' to 'bool'
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(780): warning C4305: 'argument' : truncation from 'int' to 'bool'
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(782): warning C4305: 'argument' : truncation from 'int' to 'bool'
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(863): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(863): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(872): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_ESP.h(872): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_Aimbot.h(170): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_Aimbot.h(193): warning C4551: function call missing argument list
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_Aimbot.h(395): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_Hook.h(125): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_Hook.h(144): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_Hook.h(159): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_Hook.h(162): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_Hook.h(301): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_Hook.h(305): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_Hook.h(306): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_Hook.h(308): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_Hook.h(309): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_Hook.h(317): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_Hook.h(317): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_Hook.h(318): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_Hook.h(318): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_Hook.h(351): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_Hook.h(352): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_Hook.h(353): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_Hook.h(354): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_Hook.h(355): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_Hook.h(362): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_Hook.h(375): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_Hook.h(376): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_Hook.h(377): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_Hook.h(378): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_Hook.h(382): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_Hook.h(395): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_Hook.h(528): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_Hook.h(531): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_Hook.h(556): warning C4018: '>' : signed/unsigned mismatch
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_Hook.h(948): warning C4018: '>' : signed/unsigned mismatch
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW4_Hook.h(955): warning C4018: '<' : signed/unsigned mismatch
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_Functions.h(65): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_Functions.h(275): warning C4101: 'ScreenPos' : unreferenced local variable
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_Functions.h(344): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_Functions.h(452): warning C4172: returning address of local variable or temporary
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_ESP.h(7): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_ESP.h(8): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_ESP.h(10): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_ESP.h(12): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_ESP.h(12): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_ESP.h(17): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_ESP.h(18): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_ESP.h(20): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_ESP.h(61): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_ESP.h(62): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_ESP.h(64): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_ESP.h(87): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_ESP.h(88): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_ESP.h(126): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_ESP.h(127): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_ESP.h(129): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_ESP.h(144): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_ESP.h(145): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_ESP.h(148): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_ESP.h(148): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_ESP.h(159): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_ESP.h(277): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_ESP.h(279): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_ESP.h(296): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_ESP.h(297): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_ESP.h(298): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_ESP.h(299): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_ESP.h(330): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_ESP.h(342): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_ESP.h(342): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_Aimbot.h(122): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_Aimbot.h(122): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_Aimbot.h(122): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_Aimbot.h(125): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_Aimbot.h(126): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_Aimbot.h(304): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_Hook.h(3): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_Hook.h(125): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_Hook.h(144): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_Hook.h(159): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_Hook.h(162): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_Hook.h(265): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_Hook.h(268): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_Hook.h(269): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_Hook.h(271): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_Hook.h(272): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_Hook.h(275): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_Hook.h(275): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_Hook.h(276): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_Hook.h(276): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_Hook.h(291): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_Hook.h(304): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_Hook.h(305): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_Hook.h(306): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_Hook.h(307): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_Hook.h(311): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_Hook.h(318): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_Hook.h(324): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_Hook.h(493): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_Hook.h(496): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_Hook.h(514): warning C4018: '>' : signed/unsigned mismatch
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO1_Hook.h(587): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_Functions.h(125): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_Functions.h(597): warning C4101: 'ScreenPos' : unreferenced local variable
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_Functions.h(666): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_Functions.h(752): warning C4172: returning address of local variable or temporary
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_ESP.h(7): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_ESP.h(8): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_ESP.h(10): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_ESP.h(12): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_ESP.h(12): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_ESP.h(17): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_ESP.h(18): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_ESP.h(20): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_ESP.h(95): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_ESP.h(96): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_ESP.h(98): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_ESP.h(123): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_ESP.h(124): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_ESP.h(187): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_ESP.h(188): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_ESP.h(190): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_ESP.h(205): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_ESP.h(206): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_ESP.h(209): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_ESP.h(209): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_ESP.h(220): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_ESP.h(338): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_ESP.h(340): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_ESP.h(357): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_ESP.h(358): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_ESP.h(359): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_ESP.h(360): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_ESP.h(391): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_ESP.h(403): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_ESP.h(403): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_ESP.h(493): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_ESP.h(493): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_ESP.h(502): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_ESP.h(502): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_Aimbot.h(324): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_Hook.h(129): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_Hook.h(148): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_Hook.h(163): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_Hook.h(166): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_Hook.h(301): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_Hook.h(302): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_Hook.h(288): warning C4101: 'lr' : unreferenced local variable
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_Hook.h(330): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_Hook.h(333): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_Hook.h(334): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_Hook.h(336): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_Hook.h(337): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_Hook.h(339): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_Hook.h(339): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_Hook.h(340): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_Hook.h(340): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_Hook.h(370): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_Hook.h(371): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_Hook.h(372): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_Hook.h(375): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_Hook.h(388): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_Hook.h(389): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_Hook.h(390): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_Hook.h(391): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_Hook.h(395): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_Hook.h(402): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_Hook.h(408): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_Hook.h(609): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_Hook.h(612): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_Hook.h(630): warning C4018: '>' : signed/unsigned mismatch
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_Hook.h(712): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\IW5_Hook.h(844): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_Functions.h(71): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_Functions.h(179): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_Functions.h(179): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_Functions.h(312): warning C4101: 'ScreenPos' : unreferenced local variable
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_Functions.h(381): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_ESP.h(7): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_ESP.h(8): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_ESP.h(10): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_ESP.h(12): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_ESP.h(12): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_ESP.h(17): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_ESP.h(18): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_ESP.h(20): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_ESP.h(90): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_ESP.h(91): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_ESP.h(93): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_ESP.h(118): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_ESP.h(119): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_ESP.h(177): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_ESP.h(178): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_ESP.h(180): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_ESP.h(195): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_ESP.h(196): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_ESP.h(199): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_ESP.h(199): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_ESP.h(210): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_ESP.h(328): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_ESP.h(330): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_ESP.h(347): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_ESP.h(348): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_ESP.h(349): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_ESP.h(350): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_ESP.h(381): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_ESP.h(393): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_ESP.h(393): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_ESP.h(413): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_ESP.h(418): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_ESP.h(485): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_ESP.h(485): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_ESP.h(496): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_ESP.h(496): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_Aimbot.h(167): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_Aimbot.h(175): warning C4305: 'return' : truncation from 'float' to 'bool'
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_Aimbot.h(197): warning C4800: 'float' : forcing value to bool 'true' or 'false' (performance warning)
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_Aimbot.h(256): warning C4800: 'float' : forcing value to bool 'true' or 'false' (performance warning)
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_Aimbot.h(343): warning C4172: returning address of local variable or temporary
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_Aimbot.h(456): warning C4101: 'Autowall' : unreferenced local variable
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_Aimbot.h(660): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_Aimbot.h(665): warning C4553: '==' : operator has no effect; did you intend '='?
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_Aimbot.h(669): warning C4553: '==' : operator has no effect; did you intend '='?
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_Aimbot.h(673): warning C4553: '==' : operator has no effect; did you intend '='?
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_Aimbot.h(677): warning C4553: '==' : operator has no effect; did you intend '='?
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_Aimbot.h(681): warning C4553: '==' : operator has no effect; did you intend '='?
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_Aimbot.h(685): warning C4553: '==' : operator has no effect; did you intend '='?
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_Aimbot.h(691): warning C4553: '==' : operator has no effect; did you intend '='?
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_Aimbot.h(695): warning C4553: '==' : operator has no effect; did you intend '='?
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_Aimbot.h(699): warning C4553: '==' : operator has no effect; did you intend '='?
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_Aimbot.h(703): warning C4553: '==' : operator has no effect; did you intend '='?
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_Aimbot.h(707): warning C4553: '==' : operator has no effect; did you intend '='?
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_Aimbot.h(711): warning C4553: '==' : operator has no effect; did you intend '='?
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_Aimbot.h(755): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_Aimbot.h(877): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_Hook.h(5): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_Hook.h(127): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_Hook.h(146): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_Hook.h(161): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_Hook.h(164): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_Hook.h(268): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_Hook.h(271): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_Hook.h(272): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_Hook.h(274): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_Hook.h(275): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_Hook.h(278): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_Hook.h(278): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_Hook.h(279): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_Hook.h(279): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_Hook.h(297): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_Hook.h(298): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_Hook.h(311): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_Hook.h(312): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_Hook.h(313): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_Hook.h(314): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_Hook.h(318): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_Hook.h(331): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_Hook.h(513): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_Hook.h(516): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_Hook.h(534): warning C4018: '>' : signed/unsigned mismatch
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO2_Hook.h(607): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_Functions.h(73): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_Functions.h(336): warning C4101: 'ScreenPos' : unreferenced local variable
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_Functions.h(404): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_ESP.h(7): warning C4244: '=' : conversion from 'unsigned long' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_ESP.h(8): warning C4244: '=' : conversion from 'unsigned long' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_ESP.h(10): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_ESP.h(12): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_ESP.h(12): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_ESP.h(17): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_ESP.h(18): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_ESP.h(20): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_ESP.h(90): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_ESP.h(91): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_ESP.h(93): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_ESP.h(118): warning C4244: '=' : conversion from 'unsigned long' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_ESP.h(119): warning C4244: '=' : conversion from 'unsigned long' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_ESP.h(176): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_ESP.h(177): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_ESP.h(179): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_ESP.h(194): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_ESP.h(195): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_ESP.h(198): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_ESP.h(198): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_ESP.h(209): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_ESP.h(327): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_ESP.h(329): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_ESP.h(346): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_ESP.h(347): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_ESP.h(348): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_ESP.h(349): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_ESP.h(380): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_ESP.h(392): warning C4244: 'argument' : conversion from 'unsigned long' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_ESP.h(392): warning C4244: 'argument' : conversion from 'unsigned long' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_ESP.h(475): warning C4244: 'argument' : conversion from 'unsigned long' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_ESP.h(475): warning C4244: 'argument' : conversion from 'unsigned long' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_ESP.h(484): warning C4244: 'argument' : conversion from 'unsigned long' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_ESP.h(484): warning C4244: 'argument' : conversion from 'unsigned long' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_Aimbot.h(322): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_Aimbot.h(346): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_Hook.h(3): warning C4244: 'argument' : conversion from 'unsigned long' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_Hook.h(125): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_Hook.h(144): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_Hook.h(159): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_Hook.h(162): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_Hook.h(269): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_Hook.h(272): warning C4244: 'argument' : conversion from 'unsigned long' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_Hook.h(273): warning C4244: 'argument' : conversion from 'unsigned long' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_Hook.h(275): warning C4244: 'argument' : conversion from 'unsigned long' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_Hook.h(276): warning C4244: 'argument' : conversion from 'unsigned long' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_Hook.h(279): warning C4244: 'argument' : conversion from 'unsigned long' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_Hook.h(279): warning C4244: 'argument' : conversion from 'unsigned long' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_Hook.h(280): warning C4244: 'argument' : conversion from 'unsigned long' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_Hook.h(280): warning C4244: 'argument' : conversion from 'unsigned long' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_Hook.h(297): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_Hook.h(310): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_Hook.h(311): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_Hook.h(312): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_Hook.h(313): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_Hook.h(317): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_Hook.h(324): warning C4244: 'argument' : conversion from 'unsigned long' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_Hook.h(330): warning C4244: 'argument' : conversion from 'unsigned long' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_Hook.h(492): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_Hook.h(495): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_Hook.h(556): warning C4018: '>' : signed/unsigned mismatch
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_Hook.h(638): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\GHO_Hook.h(770): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_Functions.h(79): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_Functions.h(325): warning C4101: 'ScreenPos' : unreferenced local variable
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_Functions.h(394): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_ESP.h(7): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_ESP.h(8): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_ESP.h(10): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_ESP.h(12): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_ESP.h(12): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_ESP.h(17): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_ESP.h(18): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_ESP.h(20): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_ESP.h(82): warning C4806: '&' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_ESP.h(90): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_ESP.h(91): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_ESP.h(93): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_ESP.h(118): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_ESP.h(119): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_ESP.h(176): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_ESP.h(177): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_ESP.h(179): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_ESP.h(194): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_ESP.h(195): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_ESP.h(198): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_ESP.h(198): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_ESP.h(209): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_ESP.h(327): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_ESP.h(329): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_ESP.h(346): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_ESP.h(347): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_ESP.h(348): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_ESP.h(349): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_ESP.h(380): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_ESP.h(392): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_ESP.h(392): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_ESP.h(475): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_ESP.h(475): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_ESP.h(480): warning C4806: '&' : unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_ESP.h(484): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_ESP.h(484): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_Aimbot.h(334): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_Aimbot.h(372): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_Aimbot.h(373): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_Aimbot.h(517): warning C4101: 'ClientActive_t' : unreferenced local variable
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_Hook.h(3): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_Hook.h(125): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_Hook.h(144): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_Hook.h(159): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_Hook.h(162): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_Hook.h(269): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_Hook.h(272): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_Hook.h(273): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_Hook.h(275): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_Hook.h(276): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_Hook.h(279): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_Hook.h(279): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_Hook.h(280): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_Hook.h(280): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_Hook.h(295): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_Hook.h(310): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_Hook.h(311): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_Hook.h(312): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_Hook.h(313): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_Hook.h(316): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_Hook.h(323): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_Hook.h(329): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_Hook.h(493): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_Hook.h(496): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_Hook.h(555): warning C4018: '>' : signed/unsigned mismatch
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_Hook.h(630): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AW_Hook.h(762): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\AWMP.h(35): warning C4018: '>' : signed/unsigned mismatch
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO3_Aimbot.h(44): warning C4172: returning address of local variable or temporary
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO3_Aimbot.h(48): warning C4172: returning address of local variable or temporary
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO3_Aimbot.h(81): warning C4005: 'GetPointer' : macro redefinition
+          c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\Agony.h(813) : see previous definition of 'GetPointer'
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO3_Aimbot.h(1159): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO3_Aimbot.h(1225): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO3_Aimbot.h(1399): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO3_Aimbot.h(1399): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO3_Aimbot.h(1440): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO3_Aimbot.h(1469): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO3_Aimbot.h(1469): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO3_Aimbot.h(1473): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO3_Aimbot.h(1477): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO3_Aimbot.h(1493): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO3_Aimbot.h(1522): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO3_Aimbot.h(1522): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO3_Aimbot.h(1526): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO3_Aimbot.h(1530): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO3_Aimbot.h(1540): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO3_Aimbot.h(1540): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO3_Aimbot.h(1551): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\BO3_Aimbot.h(1551): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+Agony.cpp(584): warning C4309: 'initializing' : truncation of constant value
+Agony.cpp(584): warning C4309: 'initializing' : truncation of constant value
+Agony.cpp(584): warning C4309: 'initializing' : truncation of constant value
+Agony.cpp(584): warning C4309: 'initializing' : truncation of constant value
+Agony.cpp(584): warning C4309: 'initializing' : truncation of constant value
+Agony.cpp(584): warning C4309: 'initializing' : truncation of constant value
+Agony.cpp(584): warning C4309: 'initializing' : truncation of constant value
+Agony.cpp(584): warning C4309: 'initializing' : truncation of constant value
+Agony.cpp(587): warning C4309: 'initializing' : truncation of constant value
+Agony.cpp(587): warning C4309: 'initializing' : truncation of constant value
+Agony.cpp(587): warning C4309: 'initializing' : truncation of constant value
+Agony.cpp(587): warning C4309: 'initializing' : truncation of constant value
+Agony.cpp(587): warning C4309: 'initializing' : truncation of constant value
+Agony.cpp(587): warning C4309: 'initializing' : truncation of constant value
+Agony.cpp(587): warning C4309: 'initializing' : truncation of constant value
+Agony.cpp(587): warning C4309: 'initializing' : truncation of constant value
+Agony.cpp(587): warning C4309: 'initializing' : truncation of constant value
+Agony.cpp(587): warning C4309: 'initializing' : truncation of constant value
+Agony.cpp(587): warning C4309: 'initializing' : truncation of constant value
+Agony.cpp(587): warning C4309: 'initializing' : truncation of constant value
+Agony.cpp(587): warning C4309: 'initializing' : truncation of constant value
+Agony.cpp(587): warning C4309: 'initializing' : truncation of constant value
+Agony.cpp(590): warning C4309: 'initializing' : truncation of constant value
+Agony.cpp(590): warning C4309: 'initializing' : truncation of constant value
+Agony.cpp(590): warning C4309: 'initializing' : truncation of constant value
+Agony.cpp(590): warning C4309: 'initializing' : truncation of constant value
+Agony.cpp(590): warning C4309: 'initializing' : truncation of constant value
+Agony.cpp(590): warning C4309: 'initializing' : truncation of constant value
+Agony.cpp(590): warning C4309: 'initializing' : truncation of constant value
+Agony.cpp(590): warning C4309: 'initializing' : truncation of constant value
+Agony.cpp(590): warning C4309: 'initializing' : truncation of constant value
+Agony.cpp(593): warning C4309: 'initializing' : truncation of constant value
+Agony.cpp(593): warning C4309: 'initializing' : truncation of constant value
+Agony.cpp(593): warning C4309: 'initializing' : truncation of constant value
+Agony.cpp(593): warning C4309: 'initializing' : truncation of constant value
+Agony.cpp(593): warning C4309: 'initializing' : truncation of constant value
+Agony.cpp(593): warning C4309: 'initializing' : truncation of constant value
+Agony.cpp(593): warning C4309: 'initializing' : truncation of constant value
+Agony.cpp(593): warning C4309: 'initializing' : truncation of constant value
+Agony.cpp(593): warning C4309: 'initializing' : truncation of constant value
+Agony.cpp(593): warning C4309: 'initializing' : truncation of constant value
+Agony.cpp(593): warning C4309: 'initializing' : truncation of constant value
+Agony.cpp(593): warning C4309: 'initializing' : truncation of constant value
+Agony.cpp(593): warning C4309: 'initializing' : truncation of constant value
+Agony.cpp(593): warning C4309: 'initializing' : truncation of constant value
+  Generating code
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\iw4_functions.h(161): warning C4715: 'IW4MP::GetWeaponShader' : not all control paths return a value
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\agony.h(552): warning C4715: 'GetIP' : not all control paths return a value
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\agony.h(500): warning C4715: 'XNADDRA' : not all control paths return a value
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\iw5_hook.h(565): warning C4715: 'IW5MP::H_CL_CreateNewCommands' : not all control paths return a value
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\iw4_hook.h(885): warning C4715: 'IW4MP::H_R_DrawIndexedPrimitive' : not all control paths return a value
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\iw4_hook.h(794): warning C4715: 'IW4MP::H_CL_WritePacket' : not all control paths return a value
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\iw4_functions.h(386): warning C4715: 'IW4MP::Aimtarget_isTargetVisible' : not all control paths return a value
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\aw_functions.h(158): warning C4715: 'AW::GetTagPos' : not all control paths return a value
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\gho_functions.h(165): warning C4715: 'GHO::GetTagPos' : not all control paths return a value
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\bo2_aimbot.h(472): warning C4700: uninitialized local variable 'OurClient' used
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\iw5_functions.h(353): warning C4715: 'IW5MP::GetTagPos' : not all control paths return a value
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\bo1_functions.h(141): warning C4715: 'BO1::GetTagPos' : not all control paths return a value
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\iw4_esp.h(358): warning C4700: uninitialized local variable 'HealthbarLength' used
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\iw4_functions.h(369): warning C4715: 'IW4MP::GetTagPos' : not all control paths return a value
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\waw_functions.h(158): warning C4715: 'WAW::GetTagPos' : not all control paths return a value
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\iw3_functions.h(54): warning C4715: 'IW3MP::GetTagPos' : not all control paths return a value
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\aw_hook.h(767): warning C4715: 'AW::H_CL_WritePacket' : not all control paths return a value
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\gho_hook.h(775): warning C4715: 'GHO::H_CL_WritePacket' : not all control paths return a value
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\bo2_hook.h(743): warning C4715: 'BO2::H_CL_WritePacket' : not all control paths return a value
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\bo1_hook.h(686): warning C4715: 'BO1::H_CL_WritePacket' : not all control paths return a value
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\iw4_hook.h(713): warning C4715: 'IW4MP::H_CL_CreateNewCommands' : not all control paths return a value
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\waw_hook.h(584): warning C4715: 'WAW::CL_WritePacket' : not all control paths return a value
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\iw3_hook.h(641): warning C4715: 'IW3MP::CL_WritePacket' : not all control paths return a value
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\iw5_hook.h(849): warning C4715: 'IW5MP::H_CL_WritePacket' : not all control paths return a value
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\xinirw.cpp(63): warning C4715: 'CXIniRW::WCloseINI' : not all control paths return a value
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\xinirw.cpp(35): warning C4715: 'CXIniRW::RCloseINI' : not all control paths return a value
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\xinirw.cpp(90): warning C4715: 'CXIniRW::GetValue' : not all control paths return a value
+c:\users\j\desktop\xbox development\they call it loot\call of duty\tampered - eclipse latest update\agony ce\agony.cpp(469): warning C4700: uninitialized local variable 'Thr_Exit' used
+  Finished generating code
